@@ -1,6 +1,6 @@
 {
-  "homepage": "http://cadesix.github.io/remi_website/ChefPage",
-  "name": "ChefPage",
+  "homepage": "https://cadesix.github.io/chef",
+  "name": "chef",
   "private": true,
   "version": "0.0.0",
   "type": "module",
