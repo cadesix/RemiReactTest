@@ -6,7 +6,7 @@ function App() {
   return(
     <div>
       <ChefBio
-        chefImg="src/Rene.png"
+        chefImg="chef/Rene.png"
         chefName="René Redzepi"
         chefAbout="My most popular and accessible recipes from two decades at Noma."
       ></ChefBio>
@@ -15,13 +15,13 @@ function App() {
           recipeTitle={"Smoked Mushroom Cream Sauce"}
           recipeTime={"24m"}
           recipeDifficulty={"Medium"}
-          recipeImg={"src/recipeImg.png"}
+          recipeImg={"chef/recipeImg.png"}
         ></RecipeContainer>
         <RecipeContainer 
           recipeTitle={"Smoked Mushroom Cream Sauce"}
           recipeTime={"24m"}
           recipeDifficulty={"Medium"}
-          recipeImg={"src/recipeImg.png"}
+          recipeImg={"chef/recipeImg.png"}
         ></RecipeContainer>
       </div>
     </div>
