@@ -2,7 +2,7 @@
 function RecipeContainer(props){
 
     return(
-    < a href="https://cadesix.github.io/chef/path">
+    < a href="https://remirecipes.com/path">
       <div class="recipeContainer">
         <img src={props.recipeImg} class="recipeImg"></img>
         <div class="recipeText">
