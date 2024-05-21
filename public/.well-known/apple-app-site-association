@@ -7,6 +7,11 @@
             {
               "/path": "/path",
               "comment": "Matches any URL with a path that starts with /path"
+            },
+            {
+              "/": "/*",
+              "exclude": true,
+              "comment": "Exclude all other paths"
             }
           ]
         }
