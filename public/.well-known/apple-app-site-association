@@ -5,8 +5,8 @@
           "appIDs": ["HZHHBQ42AY.remiMVP"],
           "components": [
             {
-              "/": "/*",
-              "comment": "Matches any URL with a path that starts with /"
+              "/path": "/path",
+              "comment": "Matches any URL with a path that starts with /path"
             }
           ]
         }
