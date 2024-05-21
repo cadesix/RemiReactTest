@@ -15,13 +15,31 @@ function App() {
           recipeTitle={"Smoked Mushroom Cream Sauce"}
           recipeTime={"24m"}
           recipeDifficulty={"Medium"}
-          recipeImg={"recipeImg.png"}
+          recipeImg={"mushroom.jpg"}
         ></RecipeContainer>
         <RecipeContainer 
           recipeTitle={"Herb Roasted Chicken"}
           recipeTime={"1h 15m"}
           recipeDifficulty={"Medium"}
-          recipeImg={"recipeImg.png"}
+          recipeImg={"chicken.jpg"}
+        ></RecipeContainer>
+        <RecipeContainer 
+          recipeTitle={"Classic Beef Stew"}
+          recipeTime={"2h"}
+          recipeDifficulty={"Medium"}
+          recipeImg={"stew.jpg"}
+        ></RecipeContainer>
+        <RecipeContainer 
+          recipeTitle={"Vegetable Curry"}
+          recipeTime={"30m"}
+          recipeDifficulty={"Hard"}
+          recipeImg={"curry.jpg"}
+        ></RecipeContainer>
+        <RecipeContainer 
+          recipeTitle={"Pan-Seared Salmon with Dill"}
+          recipeTime={"45m"}
+          recipeDifficulty={"Easy"}
+          recipeImg={"salmon.jpg"}
         ></RecipeContainer>
       </div>
     </div>
