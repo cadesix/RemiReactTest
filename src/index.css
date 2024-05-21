@@ -49,6 +49,7 @@ h1 {
 .recipeImg {
   width: 140px;
   height: 100px;
+  flex-shrink: 0;
   margin-right: 12px;
   margin-left: 20px;
   border-radius: 20px;
