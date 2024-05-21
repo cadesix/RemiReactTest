@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/chef/', // Ensure this is correct, matching your repository name
+  base: '/', // Ensure this is correct, matching your repository name
   build: {
     outDir: 'dist',
     assetsDir: 'assets',

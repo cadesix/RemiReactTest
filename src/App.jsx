@@ -18,15 +18,14 @@ function App() {
           recipeImg={"recipeImg.png"}
         ></RecipeContainer>
         <RecipeContainer 
-          recipeTitle={"Smoked Mushroom Cream Sauce"}
-          recipeTime={"24m"}
+          recipeTitle={"Herb Roasted Chicken"}
+          recipeTime={"1h 15m"}
           recipeDifficulty={"Medium"}
           recipeImg={"recipeImg.png"}
         ></RecipeContainer>
       </div>
     </div>
   );
-
 }
 
 export default App
